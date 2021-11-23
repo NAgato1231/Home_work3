@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+     
+    .card {
+    background: pink;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+    border-radius: 30px;
+    box-shadow: 0 0 50px black;
+     
+    }
+     
+    img{
+    border-radius: 20px;
+    }
+     
+    .card-header {
+       text-align: center;
+    }
+    .card-body {
+       text-align: center;
+     
+    }
+     
+    .card-actions {
+         text-align: center;
+    }
+     .buton2 {
+         background: black;
+         padding: 5px 30px;
+         color: white;
+         border: none;
+    }
+    .buton1 {
+       background: aquamarine;
+       padding: 5px 30px;
+       border: none;
+
+    }
+  
